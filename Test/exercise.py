@@ -23,3 +23,4 @@
 
 #print("a:" + a)
 #print("b:" + b)
+print(6 + 4 / 2 - (1 * 2))
